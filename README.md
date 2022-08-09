@@ -2,13 +2,13 @@
 
 A text encoder and decoder built using Javascript, HTML and CSS.
 
-![](C:\Users\salaa\Downloads\codificador.png)
+![](https://i.imgur.com/jHYFGP9.png)
 
 To be more difficult I made a two way data binding system for textarea fields and for showing and hiding elements, works with accented characters (will be replaced by equivalent), lower and upper case letters.
 
 ## Live preview
 
-You can see live preview here [](https://ligiamoreno91.github.io/Challenge-Oracle-One/)
+You can see live preview here [https://ligiamoreno91.github.io/Challenge-Oracle-One/](https://ligiamoreno91.github.io/Challenge-Oracle-One/)
 
 ## How does it work?
 
