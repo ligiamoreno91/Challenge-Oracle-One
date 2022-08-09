@@ -8,7 +8,7 @@ To be more difficult I made a two way data binding system for textarea fields an
 
 ## Live preview
 
-You can see live preview here 
+You can see live preview here [](https://ligiamoreno91.github.io/Challenge-Oracle-One/)
 
 ## How does it work?
 
